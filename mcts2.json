@@ -6867,7 +6867,7 @@
     },
     "servers": [
         {
-            "url": "http://SECURITYSERVER"
+            "url": "http://securityserver/egovstack/GOV/7001/DigitalRegistries/mcts11"
         }
     ]
 }
