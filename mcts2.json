@@ -6867,7 +6867,7 @@
     },
     "servers": [
         {
-            "url": "http://SECURITYSERVER"
+            "url": "https://SECURITYSERVER"
         }
     ]
 }
