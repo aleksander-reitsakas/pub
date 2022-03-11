@@ -11,7 +11,7 @@
   },
   "servers": [
     {
-      "url": "https://id1.egovstack.net/api"
+      "url": "https://SECURITYSERVER/r1/egovstack/7003/ID_Verification/authenticate/api"
     }
   ],
   "paths": {
