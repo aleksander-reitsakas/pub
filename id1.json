@@ -45,7 +45,7 @@
         ],
         "requestBody": {
           "content": {
-            "application/json": {
+            "text/json": {
               "schema": {
                 "$ref": "#/components/schemas/authenticate_body"
               },
@@ -112,7 +112,7 @@
           "200": {
             "description": "OK",
             "content": {
-              "application/json": {
+              "text/json": {
                 "schema": {
                   "$ref": "#/components/schemas/inline_response_200"
                 },
