@@ -2190,7 +2190,6 @@
                         "name": "query.Citizen ID",
                         "schema": {
                             "type": "string",
-                            "sortable": true,
                             "readOnly": true
                         }
                     },
@@ -2390,7 +2389,6 @@
                                                             },
                                                             "Citizen ID": {
                                                                 "type": "string",
-                                                                "sortable": true,
                                                                 "readOnly": true
                                                             },
                                                             "First names": {
@@ -2520,8 +2518,7 @@
                                                         "type": "string"
                                                     },
                                                     "Citizen ID": {
-                                                        "type": "string",
-                                                        "sortable": true
+                                                        "type": "string"
                                                     },
                                                     "First names": {
                                                         "type": "string"
@@ -2642,8 +2639,7 @@
                                                             "type": "string"
                                                         },
                                                         "Citizen ID": {
-                                                            "type": "string",
-                                                            "sortable": true
+                                                            "type": "string"
                                                         },
                                                         "First names": {
                                                             "type": "string"
@@ -2778,7 +2774,6 @@
                                                         },
                                                         "Citizen ID": {
                                                             "type": "string",
-                                                            "sortable": true,
                                                             "readOnly": true
                                                         },
                                                         "First names": {
@@ -2905,7 +2900,6 @@
                                                             },
                                                             "Citizen ID": {
                                                                 "type": "string",
-                                                                "sortable": true,
                                                                 "readOnly": true
                                                             },
                                                             "First names": {
@@ -3038,8 +3032,7 @@
                                                         "type": "string"
                                                     },
                                                     "Citizen ID": {
-                                                        "type": "string",
-                                                        "sortable": true
+                                                        "type": "string"
                                                     },
                                                     "First names": {
                                                         "type": "string"
@@ -3185,8 +3178,7 @@
                                                         "type": "string"
                                                     },
                                                     "Citizen ID": {
-                                                        "type": "string",
-                                                        "sortable": true
+                                                        "type": "string"
                                                     },
                                                     "First names": {
                                                         "type": "string"
@@ -3290,7 +3282,6 @@
                                                         },
                                                         "Citizen ID": {
                                                             "type": "string",
-                                                            "sortable": true,
                                                             "readOnly": true
                                                         },
                                                         "First names": {
@@ -3422,8 +3413,7 @@
                                                         "type": "string"
                                                     },
                                                     "Citizen ID": {
-                                                        "type": "string",
-                                                        "sortable": true
+                                                        "type": "string"
                                                     },
                                                     "First names": {
                                                         "type": "string"
@@ -3501,7 +3491,6 @@
                                                     },
                                                     "Citizen ID": {
                                                         "type": "string",
-                                                        "sortable": true,
                                                         "readOnly": true
                                                     },
                                                     "First names": {
@@ -3647,8 +3636,7 @@
                                                         "type": "string"
                                                     },
                                                     "Citizen ID": {
-                                                        "type": "string",
-                                                        "sortable": true
+                                                        "type": "string"
                                                     },
                                                     "First names": {
                                                         "type": "string"
@@ -3726,7 +3714,6 @@
                                                     },
                                                     "Citizen ID": {
                                                         "type": "string",
-                                                        "sortable": true,
                                                         "readOnly": true
                                                     },
                                                     "First names": {
@@ -3872,8 +3859,7 @@
                                                         "type": "string"
                                                     },
                                                     "Citizen ID": {
-                                                        "type": "string",
-                                                        "sortable": true
+                                                        "type": "string"
                                                     },
                                                     "First names": {
                                                         "type": "string"
@@ -3949,8 +3935,7 @@
                                                         "type": "string"
                                                     },
                                                     "Citizen ID": {
-                                                        "type": "string",
-                                                        "sortable": true
+                                                        "type": "string"
                                                     },
                                                     "First names": {
                                                         "type": "string"
@@ -4070,8 +4055,7 @@
                                                             "type": "string"
                                                         },
                                                         "Citizen ID": {
-                                                            "type": "string",
-                                                            "sortable": true
+                                                            "type": "string"
                                                         },
                                                         "First names": {
                                                             "type": "string"
@@ -4181,8 +4165,7 @@
                                                             "type": "string"
                                                         },
                                                         "Citizen ID": {
-                                                            "type": "string",
-                                                            "sortable": true
+                                                            "type": "string"
                                                         },
                                                         "First names": {
                                                             "type": "string"
@@ -4315,8 +4298,7 @@
                                                             "type": "string"
                                                         },
                                                         "Citizen ID": {
-                                                            "type": "string",
-                                                            "sortable": true
+                                                            "type": "string"
                                                         },
                                                         "First names": {
                                                             "type": "string"
@@ -4397,7 +4379,6 @@
                                                         },
                                                         "Citizen ID": {
                                                             "type": "string",
-                                                            "sortable": true,
                                                             "readOnly": true
                                                         },
                                                         "First names": {
@@ -4523,7 +4504,6 @@
                                                             },
                                                             "Citizen ID": {
                                                                 "type": "string",
-                                                                "sortable": true,
                                                                 "readOnly": true
                                                             },
                                                             "First names": {
@@ -4639,7 +4619,6 @@
                                                             },
                                                             "Citizen ID": {
                                                                 "type": "string",
-                                                                "sortable": true,
                                                                 "readOnly": true
                                                             },
                                                             "First names": {
